@@ -1,4 +1,4 @@
-# Project Requirement:
+# Project Overview:
 * The Saskatchewan Regional Centre of Expertise ([RCE Sask](https://saskrce.ca/)) seeks to transform education for sustainability in Saskatchewan region. Education includes formal education (such as primary, secondary, and post-secondary education) as well as informal and non-formal education (such as the private media and public education by non-governmental organizations). They promote active environmental stewardship, social justice, and intergenerational equity. And the **primary requirement** is to re-design and re-develope [Project & Profile](https://saskrce.ca/blog/profiles-projects/) page in an innovative way in order to mobilize the knowledge work, i.e. what everyone is doing, what knowledge they are gaining, and how others can collaborate by providing different features in website **Profile & Project** section.
 
 
