@@ -3,12 +3,21 @@
 
 
 # Documentation:
+Activity 1:
 
 * [Empathy Mapping](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Empathy%20Mapping%20Diagram/Empathy%20Mapping.pdf)
 * [Affinity Diagram](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Affinity%20Diagram/Affinity%20Diagram.pdf)
 * [User Story Maping](https://github.com/priyacshah/RCE_Sask_Website_Design/tree/main/Documentation/User%20Story%20Mapping)
 * [Document Outlining](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Document%20Outline/Document%20Outline.pdf)
 * [Customer's Feedback](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Customer%20Feedbacks/Summary%20of%20Feedback%201.pdf)
+
+Activity 2:
+
+* [User Story Maping](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/User%20Story%20Mapping/User_Story_Mapping_2.pdf)
+* [Design Concept](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Design%20concepts.pdf)
+* [Customer's Feedback](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Customer%20Feedbacks/Summary%20of%20Feedback%202.pdf)
+* [Low Fidelity prototypes](https://github.com/priyacshah/RCE_Sask_Website_Design/tree/main/Prototypes/Low_fidelity)
+
 
 # Contribution in project: [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
