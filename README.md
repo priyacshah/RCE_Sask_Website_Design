@@ -14,9 +14,16 @@ Activity 1:
 Activity 2:
 
 * [User Story Maping](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/User%20Story%20Mapping/User_Story_Mapping_2.pdf)
-* [Design Concept](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Design%20concepts.pdf)
+* [Design Concept](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Design%20Concepts/Design_concepts_1.pdf)
 * [Customer's Feedback](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Customer%20Feedbacks/Summary%20of%20Feedback%202.pdf)
 * [Low Fidelity prototypes](https://github.com/priyacshah/RCE_Sask_Website_Design/tree/main/Prototypes/Low_fidelity)
+
+Activity 3:
+
+* [User Story Maping](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/User%20Story%20Mapping/User_Story_Mapping_3.pdf)
+* [Design Concept](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Design%20Concepts/Design_concepts_2.pdf)
+* [Customer's Feedback](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Customer%20Feedbacks/Summary%20of%20Feedback%203.pdf)
+* [High Fidelity prototypes](https://github.com/priyacshah/RCE_Sask_Website_Design/tree/main/Prototypes/High_fidelity)
 
 
 # Contribution in project: [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
