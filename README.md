@@ -25,6 +25,15 @@ Activity 3:
 * [Customer's Feedback](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Customer%20Feedbacks/Summary%20of%20Feedback%203.pdf)
 * [High Fidelity prototypes](https://github.com/priyacshah/RCE_Sask_Website_Design/tree/main/Prototypes/High_fidelity)
 
+Activity 4: (**Final Release**)
+
+* [User Story Maping](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/User%20Story%20Mapping/User_Story_Mapping_4.pdf)
+* [Customer's Feedback](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Customer%20Feedbacks/Summary%20of%20Feedback%204.pdf)
+* [Final Project Report](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Final%20Project%20docs/ENSE%20871%20final%20report.pdf)
+* [Final Project Presentation](https://github.com/priyacshah/RCE_Sask_Website_Design/blob/main/Documentation/Final%20Project%20docs/Final_project_presentation.pptx)
+* [WordPress Backup github](https://github.com/priyacshah/RCE_Sask_Website_Design/tree/main/WordPress%20backup)
+* [WordPress Backup uregina server](http://download.uregina.ca/DownloadAttachment/oyHfg4B9QadRyuSLrQRKLXwOkD2GU8nxj6QQBp0Ysmw9AYPMnm748WOB0EGplhi6/)
+
 
 # Contribution in project: [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
